@@ -1,1 +1,5 @@
-# Dante-Di-Giovanni-Proyecto-Informatico-1-2026
+Dante Di Giovanni
+Proyecto Informatico 1
+2026
+TP 4
+Uso de sensores + Monitor Serial
