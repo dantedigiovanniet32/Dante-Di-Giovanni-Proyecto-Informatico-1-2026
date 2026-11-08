@@ -1,5 +1,3 @@
-// Can be moved in header file i.e notes.h
-#define ARRAY_LEN(array) (sizeof(array) / sizeof(array[0]))
 
 // tempo
 const int TEMPO = 120;
